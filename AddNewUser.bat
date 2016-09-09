@@ -1,0 +1,1 @@
+net user john1 passwd! /add

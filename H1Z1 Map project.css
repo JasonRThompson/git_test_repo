@@ -1,0 +1,13 @@
+body {
+	background-color: black;
+}
+h1{
+	color: red;
+}
+.boldClass{
+	font-weight: bold;
+	color: red;
+}
+#bigID{
+	font-size: 24 pix;
+}
