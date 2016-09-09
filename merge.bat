@@ -1,1 +1,0 @@
-copy *.txt Complete2.txt
